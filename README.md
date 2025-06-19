@@ -1,4 +1,4 @@
-# 🔐 Request Payload Testing Tool (Rust)
+# 🔐 Request Payload Testing (Rust)
 
 A high-performance, lightweight tool built in **Rust** for security testing, payload analysis, and malicious request detection. Our **AIM** is to build a high security real-time security analytics.
 
